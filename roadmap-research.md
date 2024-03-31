@@ -15,7 +15,7 @@
 
 ### Junior
 1. Continue finding REUs
-1. Having at least another paper published. By this time, if you struggle with having a published paper, follow 
+1. Having at least another paper published. By this time, if you struggle with having a published paper, go to [Ways to earn research experience + publish paper](#ways-to-earn-research-experience--publish-paper).
 
 ### Senior
 1. Ask Profs/Supervisors for LORs (at least 3)
