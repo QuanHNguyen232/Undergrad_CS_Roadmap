@@ -15,7 +15,7 @@
 
 ### Junior
 1. Continue finding REUs
-1. Having at least another paper published
+1. Having at least another paper published. By this time, if you struggle with having a published paper, follow 
 
 ### Senior
 1. Ask Profs/Supervisors for LORs (at least 3)
@@ -52,6 +52,9 @@
 <p align="right"><a href="#top-page">[Back to top]</a></p>
 
 
+## Ways to earn research experience + publish paper
+1. Join residency programs in Vietnam such as FPT-residency or VinAI residency (2-year long)
+1. Join [Application Driven Mathematics](https://adm-vietnam.github.io/) (ADM) in Vietnam (this program is new) (6-month long)
 
 ## Conference ranking
 
