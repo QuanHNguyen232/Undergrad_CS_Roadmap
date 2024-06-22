@@ -5,6 +5,7 @@
 1. GPA: maintain high GPA (>3.5)
 1. Personal projects
 1. Prepare your resume (template I prefer: by [Peter Zhang](https://www.overleaf.com/latex/templates/modular-resume/kyghjmzkfzwb)-[Github](https://github.com/petezh/ModuLatex-Resume/blob/master/resume-general))
+1. List of CS opportunities (intern/REUs/confs/1st-2nd years) ([link](https://luisae.github.io/opportunities/#cs-underclassmen-internships))
 1. Fb group for VNese:
 	* [VietTech](https://www.facebook.com/groups/1177470863076165/)
 	* [VietReferral](https://www.facebook.com/groups/140855933170209/)
